@@ -1,0 +1,1 @@
+YO_URL = 'http://api.justyo.co/yoall/'
