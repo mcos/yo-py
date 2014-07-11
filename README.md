@@ -3,6 +3,8 @@ Yo Python
 
 A Python client for the Yo platform. This is pretty pointless, but I want to try to overengineer it as much as possible, just for fun.
 
+Pull Requests are actively encouraged!
+
 Installation
 ==
 
@@ -35,3 +37,4 @@ Since I want to overengineer this in the future, the following needs to be done:
 * Travis integration
 * Updated documentation
 * A landing page on Github pages
+* Full git-flow workflow
