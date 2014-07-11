@@ -23,8 +23,8 @@ test_requirements = [
 ]
 
 setup(
-    name='yo',
-    version='0.1.0',
+    name='yo-client',
+    version='0.1.1',
     description='A Python client for the Yo platform',
     long_description=readme + '\n\n' + history,
     author='Mark Costello',
@@ -32,6 +32,7 @@ setup(
     url='https://github.com/mcos/yo-py',
     packages=[
         'yo',
+        'yo.http_client'
     ],
     package_dir={'yo':
                  'yo'},
