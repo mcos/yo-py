@@ -8,7 +8,7 @@ Pull Requests are actively encouraged!
 Installation
 ==
 
-`pip install yo-client`
+`pip install python-yo`
 
 Usage
 ==

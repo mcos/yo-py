@@ -23,8 +23,8 @@ test_requirements = [
 ]
 
 setup(
-    name='yo-client',
-    version='0.1.1',
+    name='python-yo',
+    version='0.1.0',
     description='A Python client for the Yo platform',
     long_description=readme + '\n\n' + history,
     author='Mark Costello',
