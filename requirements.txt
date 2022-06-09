@@ -2,6 +2,6 @@ Jinja2==2.7.3
 MarkupSafe==0.23
 PyYAML==3.11
 binaryornot==0.3.0
-cookiecutter==0.7.1
+cookiecutter==2.1.1
 requests==2.3.0
 wsgiref==0.1.2
